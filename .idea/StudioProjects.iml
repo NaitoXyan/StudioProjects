@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/practiceformnav/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/practiceformnav/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/practiceformnav/build" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_time_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/first_time_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/first_time_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/reyes_activity2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/reyes_activity2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/reyes_activity2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/referencepurpose/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/referencepurpose/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/referencepurpose/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/reyesexam/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/reyesexam/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/reyesexam/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/untitled/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/untitled/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/untitled/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_time/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_time/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/first_time/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/StudySync/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/StudySync/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/StudySync/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/SagunAct/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/SagunAct/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Activity_Oct20/SagunAct/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
